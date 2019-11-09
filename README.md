@@ -29,7 +29,7 @@ Enter the values for the following varible before running the main program, defa
 
 Following table compares various classifiers:
 
-![Result image](https://github.com/alinstein/Human-Identification-using-ECG/blob/master/Results.JPG)
+![Result image](https://github.com/alinstein/Genetic_Algorithm_for_feature_selection/blob/master/Results.JPG)
 
 
 
