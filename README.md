@@ -24,6 +24,8 @@ Enter the values for the following varible before running the main program, defa
 (vi)Cross Over Ratio (CR1 = 0.8) 
 (vii) Number of Crossovers (CR2 = 8) 
 
+More details in 'Project Report'.pdf
+
 
 ### Results
 
